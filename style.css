@@ -50,7 +50,7 @@ button {
 }
 
 @media (max-width: 450px) {
-  .container {
+  .main {
     background-image: none;
   }
   .box {
